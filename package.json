@@ -4,7 +4,7 @@
   "description": "unit,test",
   "main": "index.js",
   "scripts": {
-    "test": "karma start",
+    "test": "karma start karma.cover.conf.js",
     "test:cover": "karma start karma.cover.conf.js"
   },
   "repository": {
